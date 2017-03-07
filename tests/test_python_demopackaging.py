@@ -10,10 +10,7 @@ Tests for `python_demopackaging` module.
 
 
 import unittest
-
 from python_demopackaging import python_demopackaging
-
-
 
 class TestPython_demopackaging(unittest.TestCase):
 
